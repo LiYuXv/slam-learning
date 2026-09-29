@@ -1,0 +1,21 @@
+# Datasets / third-party code
+datasets/
+data/
+third_party/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Conda / logs / outputs
+*.log
+wandb/
+outputs/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
